@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.hellosign.com/public/js/embedded/v2.10.0/embedded.development.js"></script>
+
+</head>
+<body>
+    <script>
+const client = new window.HelloSign({
+  clientId: '8ca3f3eb57cbb3715f0922dd712aea41'
+});
+
+// ...
+
+client.open('https://app.hellosign.com/editor/embeddedSign?signature_id=e00e495a842f470e4c94f9f7ab05c7c5&token=cef362557ed39938752a11a2af99b8ec',
+{skipDomainVerification: true});
+
+    </script>
+
+
+</body>
+</html>

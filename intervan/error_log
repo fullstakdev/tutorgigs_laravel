@@ -1,0 +1,5 @@
+[25-Jun-2021 17:03:28 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/codyivxh/public_html/intervan/storage/framework/views/10a9bc256c59ee55e05e7dc23b0d2e416bd814fa.php on line 197
+[25-Jun-2021 17:33:15 UTC] PHP Fatal error:  Access level to App\Models\AssesmentRule::$timestamps must be public (as in class Illuminate\Database\Eloquent\Model) in /home/codyivxh/public_html/intervan/app/Models/AssesmentRule.php on line 8
+[29-Jun-2021 13:13:51 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/codyivxh/public_html/intervan/app/Dbhelper/CreateSession.php on line 21
+[08-Jul-2021 14:59:10 UTC] PHP Fatal error:  Default value for parameters with a class type can only be NULL in /home/codyivxh/public_html/intervan/app/Dbhelper/CreateSession.php on line 57
+[08-Jul-2021 14:59:49 UTC] PHP Fatal error:  Default value for parameters with a class type can only be NULL in /home/codyivxh/public_html/intervan/app/Dbhelper/CreateSession.php on line 57
